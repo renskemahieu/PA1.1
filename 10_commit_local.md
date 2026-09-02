@@ -18,7 +18,7 @@ Use VS code to create a file and type some text. When doing so, click the previe
 
 ## Task 3 Commit your changes
 
-Now let's commit your changes of this file `10_commit_local.md` and `my_first_file.md`. In GitHub Desktop you should see both files and the changes made. Make sure you select both of these changes and commit those changes by clicking the blue 'Commit 2 files to main'.
+Now let's commit your changes of this file `10_commit_local.md` and `my_first_file.md`. In GitHub Desktop you should see both files and the changes made. Make sure you select both of these changes and commit those changes by clicking the blue 'Commit 2 files to main'. oke lets add smth
 
 ## Task 4 Push your changes
 
